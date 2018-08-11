@@ -89,7 +89,7 @@ this.setState({showItems: !didShow});
       <div className="App">
       <div className="row"></div>
 
-      <div className="row"> <h3 className="blue-text text-darken-0"> Group gifting discussion board </h3>
+      <div className="row"> <h3> Group gifting discussion board </h3>
 
       <div className="divider"> </div>
 </div>
