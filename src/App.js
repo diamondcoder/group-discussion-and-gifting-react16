@@ -106,6 +106,8 @@ this.setState({showItems: !didShow});
   I am showing
   </div> : null
 }
+<br />
+loading items
 <ItemList products={this.state.items} onAdd={this.addProductHandler} />
 
  </div>
